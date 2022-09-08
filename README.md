@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZeCastr0
-- 👀 I’m interested in get a job as a dev
-- 🌱 I’m currently learning full stack by tera
-- 📫 How to reach me e-mail: joseinacio2001.jic@gmail.com or whatsapp +55 01298853-4755 
+- 👋  Hi, I’m @ZeCastr0
+- 👀  I’m interested in get a job as a dev
+- 🌱  I’m currently learning full stack by tera
+- 📫  How to reach me e-mail: joseinacio2001.jic@gmail.com or whatsapp +55 01298853-4755 
 - My linkedin: https://www.linkedin.com/in/jose-inacio-scs
 
 Resumo:
