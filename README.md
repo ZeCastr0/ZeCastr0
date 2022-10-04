@@ -8,3 +8,9 @@
 Resumo:
 
 Sou Desenvolvedor Júnior atualmente cursando Análise de Desenvolvimento de Sistemas, com conhecimentos adquiridos em cursos/bootcamp full stack, ou seja, back-end e front-end.
+
+<div>
+<a href="https://github.com/ZeCastr0">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
