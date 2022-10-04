@@ -1,13 +1,15 @@
-- 👋  Hi, I’m @ZeCastr0
-- 👀  I’m interested in get a job as a dev
-- 🌱  I’m currently learning full stack by tera
-- 📫  How to reach me e-mail: joseinacio2001.jic@gmail.com or whatsapp +55 01298853-4755 
-- My linkedin: https://www.linkedin.com/in/jose-inacio-scs
-- https://zecastr0.github.io/Portfolio/
 
 Resumo:
 
 Sou Desenvolvedor Júnior atualmente cursando Análise de Desenvolvimento de Sistemas, com conhecimentos adquiridos em cursos/bootcamp full stack, ou seja, back-end e front-end.
+
+## Contatos:
+
+<div>
+<a href="https://instagram.com/ze_castroo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:joseinacio2001.jic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jose-inacio-scs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <div>
 <a href="https://github.com/ZeCastr0">
