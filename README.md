@@ -2,6 +2,7 @@
 Resumo:
 
 Sou Desenvolvedor Júnior atualmente cursando Análise de Desenvolvimento de Sistemas, com conhecimentos adquiridos em cursos/bootcamp full stack, ou seja, back-end e front-end.
+
 ..................................................
 ## Ferramentas e Tecnologias
 
