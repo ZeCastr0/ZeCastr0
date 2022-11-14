@@ -22,4 +22,3 @@ Sou Desenvolvedor Júnior atualmente cursando Análise de Desenvolvimento de Sis
           
  Portfolio: https://zecastr0.github.io/Portfolio/
  
- ...
