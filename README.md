@@ -50,11 +50,11 @@ Sou um Desenvolvedor Júnior com formação técnica e superior em andamento em 
 ### Experiências Profissionais
 
 **Desenvolvedor .Net/SQL Jr (Full Stack)**  
-_Neobetel - CLT_ (07/11/2022 – Atual)  
+_Neobetel - CLT_ (07/11/2022 – 03/11/2023)  
 Trabalho focado no sistema de gerenciamento empresarial (ERP) com tecnologias .NET e SQL Server.
 
 **Desenvolvedor WEB**  
-_LN Publicidade - Freelance_ (01/08/2023 – Atual)  
+_LN Publicidade - Freelance_ (01/08/2023 – 01/11/2023)  
 Desenvolvimento Full Stack para soluções criativas com tecnologias como Node.js, React.js, SQL, NoSQL, e outros.
 
 ---
