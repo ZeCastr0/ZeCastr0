@@ -47,10 +47,8 @@ Sou um Desenvolvedor Júnior com formação técnica e superior em andamento em 
 
 ### Contato
 
-- 📷 [Instagram](https://instagram.com/ze_castroo)
 - ✉ [Gmail](mailto:joseinacio2001.jic@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-inacio-scs/)
-- 🌐 [Portfolio](https://zecastr0.github.io/Portfolio/)
 
 ---
 
