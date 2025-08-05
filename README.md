@@ -19,10 +19,6 @@
 
 Sou um desenvolvedor com experiência sólida em **.NET (C#, VB)** e **SQL Server**, atualmente atuando como **Tech Lead**, liderando tecnicamente projetos e equipes. Tenho como foco construir soluções limpas, escaláveis e orientadas à performance, com domínio na construção de APIs, procedures otimizadas e lógica de negócios sólida.
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (concluindo em 2024)
-- 🎓 Cursando Engenharia de Software (prev. 2028)
-- 🧠 Apaixonado por resolver problemas reais com software claro, útil e direto
-
 ---
 
 ### 📚 Formação
