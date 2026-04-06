@@ -59,7 +59,7 @@ Sou um desenvolvedor com experiência sólida em **.NET (C#, VB)** e **SQL Serve
 
 #### ☁️ Infraestrutura & Versionamento
 - `Git`, `GitHub`, `Bitbucket`, `Sourcetree`
-- `Windows Azure`
+- `Azure`
 
 
 
